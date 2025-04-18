@@ -1,0 +1,152 @@
+[
+  {
+    "id": "1",
+    "name": "Fondo de Inversión Alpha",
+    "type": "Fondo",
+    "category": "Inversión",
+    "interestRate": 8.5,
+    "riskLevel": "Alto",
+    "description": "Invierte en empresas tecnológicas con alto potencial.",
+    "performance": [1.0, 1.1, 1.15, 1.2, 1.18]
+  },
+  {
+    "id": "2",
+    "name": "Tarjeta de Crédito Platino",
+    "type": "Tarjeta",
+    "category": "Crédito",
+    "interestRate": 2.8,
+    "riskLevel": "Alto",
+    "description": "Tarjeta con cashback del 5% y sin cuota el primer año.",
+    "performance": [1.0, 1.05, 1.08, 1.07, 1.1]
+  },
+  {
+    "id": "3",
+    "name": "Seguro de Vida Total",
+    "type": "Seguro",
+    "category": "Protección",
+    "interestRate": null,
+    "riskLevel": null,
+    "description": "Protección completa para ti y tu familia.",
+    "performance": [1.0, 1.01, 1.01, 1.02, 1.03]
+  },
+  {
+    "id": "4",
+    "name": "Cuenta Ahorro Flexi",
+    "type": "Cuenta",
+    "category": "Ahorro",
+    "interestRate": 1.5,
+    "riskLevel": "Bajo",
+    "description": "Cuenta de ahorro sin comisiones y acceso inmediato.",
+    "performance": [1.0, 1.005, 1.01, 1.015, 1.02]
+  },
+  {
+    "id": "5",
+    "name": "Crédito Hipotecario CasaYa",
+    "type": "Crédito",
+    "category": "Vivienda",
+    "interestRate": 9.3,
+    "riskLevel": "Medio",
+    "description": "Financia tu vivienda con tasas competitivas.",
+    "performance": [1.0, 1.02, 1.04, 1.03, 1.05]
+  },
+  {
+    "id": "6",
+    "name": "Fondo Conservador",
+    "type": "Fondo",
+    "category": "Inversión",
+    "interestRate": 3.0,
+    "riskLevel": "Bajo",
+    "description": "Renta fija con mínima volatilidad.",
+    "performance": [1.0, 1.01, 1.02, 1.02, 1.025]
+  },
+  {
+    "id": "7",
+    "name": "Tarjeta Joven",
+    "type": "Tarjeta",
+    "category": "Crédito",
+    "interestRate": 2.0,
+    "riskLevel": "Medio",
+    "description": "Especial para jóvenes y estudiantes.",
+    "performance": [1.0, 1.02, 1.01, 1.03, 1.04]
+  },
+  {
+    "id": "8",
+    "name": "Seguro Vehicular Plus",
+    "type": "Seguro",
+    "category": "Protección",
+    "interestRate": null,
+    "riskLevel": null,
+    "description": "Cobertura amplia y asistencia en carretera.",
+    "performance": [1.0, 1.0, 1.01, 1.01, 1.02]
+  },
+  {
+    "id": "9",
+    "name": "Crédito Rápido",
+    "type": "Crédito",
+    "category": "Consumo",
+    "interestRate": 12.5,
+    "riskLevel": "Alto",
+    "description": "Crédito personal desembolsado en 24 horas.",
+    "performance": [1.0, 1.03, 1.05, 1.07, 1.1]
+  },
+  {
+    "id": "10",
+    "name": "Cuenta Digital",
+    "type": "Cuenta",
+    "category": "Ahorro",
+    "interestRate": 1.8,
+    "riskLevel": "Bajo",
+    "description": "Cuenta 100% digital sin costo de manejo.",
+    "performance": [1.0, 1.005, 1.015, 1.02, 1.025]
+  },
+  {
+    "id": "11",
+    "name": "Fondo Emergente Global",
+    "type": "Fondo",
+    "category": "Inversión",
+    "interestRate": 10.1,
+    "riskLevel": "Alto",
+    "description": "Acceso a mercados emergentes de alto crecimiento.",
+    "performance": [1.0, 1.12, 1.18, 1.15, 1.2]
+  },
+  {
+    "id": "12",
+    "name": "Seguro de Salud Premium",
+    "type": "Seguro",
+    "category": "Protección",
+    "interestRate": null,
+    "riskLevel": null,
+    "description": "Cobertura médica nacional e internacional.",
+    "performance": [1.0, 1.01, 1.02, 1.03, 1.035]
+  },
+  {
+    "id": "13",
+    "name": "Crédito Educativo",
+    "type": "Crédito",
+    "category": "Educación",
+    "interestRate": 6.7,
+    "riskLevel": "Medio",
+    "description": "Financia tus estudios con plazos flexibles.",
+    "performance": [1.0, 1.015, 1.025, 1.03, 1.035]
+  },
+  {
+    "id": "14",
+    "name": "Tarjeta Cashback Max",
+    "type": "Tarjeta",
+    "category": "Crédito",
+    "interestRate": 3.1,
+    "riskLevel": "Medio",
+    "description": "Devuelve hasta el 10% en compras seleccionadas.",
+    "performance": [1.0, 1.04, 1.06, 1.07, 1.09]
+  },
+  {
+    "id": "15",
+    "name": "Cuenta de Ahorro Familiar",
+    "type": "Cuenta",
+    "category": "Ahorro",
+    "interestRate": 2.0,
+    "riskLevel": "Bajo",
+    "description": "Ideal para el ahorro conjunto de toda la familia.",
+    "performance": [1.0, 1.01, 1.015, 1.02, 1.025]
+  }
+]
