@@ -41,7 +41,7 @@ export const ProductDetail: FC<Props> = ({ product }: Props): JSX.Element => {
                         className="flex text-blue-600 hover:text-blue-800 hover:cursor-pointer hover:bg-blue-100 rounded-lg px-3 py-2 transition duration-200"
                         title="Volver"
                     >
-                        <ArrowLeft className="w-6 h-6 mr-3"/> Regresar
+                        <ArrowLeft className="w-6 h-6 mr-3"/> Volver al Catalogo
                     </button>
                 </div>
             </div>
